@@ -1,0 +1,9 @@
+Package: interest
+Type: Package
+Title: Interest Rate Calculations 
+Version: 0.9
+Date: 2023-03-15
+Author: F M
+Maintainer: F M <marazf@usi.ch>
+Description: Several functions for calculating returns and prices.
+License: GPL-3
